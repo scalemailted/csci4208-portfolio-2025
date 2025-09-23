@@ -32,7 +32,7 @@
 | Lab-03 — Bootstrap: Responsive Portfolio [#3](https://github.com/scalemailted/csci4208-portfolio-2025/issues/3) | `lab-03` | open |
 | Lab-04 — JavaScript Basics: Hi–Lo Game (MVP → MVC) [#6](https://github.com/scalemailted/csci4208-portfolio-2025/issues/6) | `lab-04` | open |
 | Lab-05 — JavaScript OOP + Phaser: Dodger Game [#7](https://github.com/scalemailted/csci4208-portfolio-2025/issues/7) | `lab-05` | open |
-| Project-0 — Set up Repo, Project Board, Actions & Pages [#8](https://github.com/scalemailted/csci4208-portfolio-2025/issues/8) | `project-0` | open |
+| Project-00 — Set up Repo, Project Board, Actions & Pages [#8](https://github.com/scalemailted/csci4208-portfolio-2025/issues/8) | `project-00` | open |
 | Project-01 — Interactive Game in HTML & CSS [#4](https://github.com/scalemailted/csci4208-portfolio-2025/issues/4) | `project-01` | open |
 <!-- STATUS:END -->
 
