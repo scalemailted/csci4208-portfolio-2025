@@ -31,7 +31,9 @@
 | Lab-02 — CSS: Crash Course [#2](https://github.com/scalemailted/csci4208-portfolio-2025/issues/2) | `lab-02` | open |
 | Lab-03 — Bootstrap: Responsive Portfolio [#3](https://github.com/scalemailted/csci4208-portfolio-2025/issues/3) | `lab-03` | open |
 | Lab-04 — JavaScript Basics: Hi–Lo Game (MVP → MVC) [#6](https://github.com/scalemailted/csci4208-portfolio-2025/issues/6) | `lab-04` | open |
-| Lab-05 (Alt) — JavaScript OOP + Phaser: Platformer Game [#24](https://github.com/scalemailted/csci4208-portfolio-2025/issues/24) | `lab-05` | open |
+| Lab-05 (Alt) — JavaScript OOP + Phaser: Platformer Game [#26](https://github.com/scalemailted/csci4208-portfolio-2025/issues/26) | `lab-05` | open |
+| Lab-05 — JavaScript OOP + Phaser: Dodger Game [#25](https://github.com/scalemailted/csci4208-portfolio-2025/issues/25) | `lab-05` | open |
+| Lab-05 — JavaScript OOP + Phaser: Dodger Game [#24](https://github.com/scalemailted/csci4208-portfolio-2025/issues/24) | `lab-05` | open |
 | Lab-05 — JavaScript OOP + Phaser: Dodger Game [#23](https://github.com/scalemailted/csci4208-portfolio-2025/issues/23) | `lab-05` | open |
 | Lab-05 — JavaScript OOP + Phaser: Dodger Game [#22](https://github.com/scalemailted/csci4208-portfolio-2025/issues/22) | `lab-05` | open |
 | Lab-05 — JavaScript OOP + Phaser: Dodger Game [#21](https://github.com/scalemailted/csci4208-portfolio-2025/issues/21) | `lab-05` | open |
