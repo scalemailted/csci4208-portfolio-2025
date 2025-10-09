@@ -31,7 +31,8 @@
 | Lab-02 — CSS: Crash Course [#2](https://github.com/scalemailted/csci4208-portfolio-2025/issues/2) | `lab-02` | open |
 | Lab-03 — Bootstrap: Responsive Portfolio [#3](https://github.com/scalemailted/csci4208-portfolio-2025/issues/3) | `lab-03` | open |
 | Lab-04 — JavaScript Basics: Hi–Lo Game (MVP → MVC) [#6](https://github.com/scalemailted/csci4208-portfolio-2025/issues/6) | `lab-04` | open |
-| Lab-05 (Alt) — JavaScript OOP + Phaser: Platformer Game [#26](https://github.com/scalemailted/csci4208-portfolio-2025/issues/26) | `lab-05` | open |
+| Lab-05 — JavaScript OOP + Phaser: Dodger Game [#27](https://github.com/scalemailted/csci4208-portfolio-2025/issues/27) | `lab-05` | open |
+| Lab-05 — JavaScript OOP + Phaser: Dodger Game [#26](https://github.com/scalemailted/csci4208-portfolio-2025/issues/26) | `lab-05` | open |
 | Lab-05 — JavaScript OOP + Phaser: Dodger Game [#25](https://github.com/scalemailted/csci4208-portfolio-2025/issues/25) | `lab-05` | open |
 | Lab-05 — JavaScript OOP + Phaser: Dodger Game [#24](https://github.com/scalemailted/csci4208-portfolio-2025/issues/24) | `lab-05` | open |
 | Lab-05 — JavaScript OOP + Phaser: Dodger Game [#23](https://github.com/scalemailted/csci4208-portfolio-2025/issues/23) | `lab-05` | open |
@@ -47,6 +48,7 @@
 | Lab-05 — JavaScript OOP + Phaser: Dodger Game [#9](https://github.com/scalemailted/csci4208-portfolio-2025/issues/9) | `lab-05` | open |
 | Lab-05 — JavaScript OOP + Phaser: Dodger Game [#7](https://github.com/scalemailted/csci4208-portfolio-2025/issues/7) | `lab-05` | open |
 | Lab-06 — REST Client: Quiz Game + Leaderboard (Modules + Fetch) [#10](https://github.com/scalemailted/csci4208-portfolio-2025/issues/10) | `lab-06` | open |
+| Lab-07 — Browser Data Layer: Mock Document DB [#29](https://github.com/scalemailted/csci4208-portfolio-2025/issues/29) | `lab-07` | open |
 | Project-0 — Set up Repo, Project Board, Actions & Pages [#8](https://github.com/scalemailted/csci4208-portfolio-2025/issues/8) | `project-00` | open |
 | Project-01 — Interactive Game in HTML & CSS [#4](https://github.com/scalemailted/csci4208-portfolio-2025/issues/4) | `project-01` | open |
 | Project-02 — Sprint 3: Full Feature Set & Polish [#13](https://github.com/scalemailted/csci4208-portfolio-2025/issues/13) | `project-02` | open |
