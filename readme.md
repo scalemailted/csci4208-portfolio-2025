@@ -31,7 +31,6 @@
 | Lab-02 — CSS: Crash Course [#2](https://github.com/scalemailted/csci4208-portfolio-2025/issues/2) | `lab-02` | open |
 | Lab-03 — Bootstrap: Responsive Portfolio [#3](https://github.com/scalemailted/csci4208-portfolio-2025/issues/3) | `lab-03` | open |
 | Lab-04 — JavaScript Basics: Hi–Lo Game (MVP → MVC) [#6](https://github.com/scalemailted/csci4208-portfolio-2025/issues/6) | `lab-04` | open |
-| Lab-05 — JavaScript OOP + Phaser: Dodger Game [#9](https://github.com/scalemailted/csci4208-portfolio-2025/issues/9) | `lab-05` | open |
 | Lab-05 — JavaScript OOP + Phaser: Dodger Game [#7](https://github.com/scalemailted/csci4208-portfolio-2025/issues/7) | `lab-05` | open |
 | Lab-06 — REST Client: Quiz Game + Leaderboard (Modules + Fetch) [#10](https://github.com/scalemailted/csci4208-portfolio-2025/issues/10) | `lab-06` | open |
 | Lab-07 — Browser Data Layer: Mock Document DB [#29](https://github.com/scalemailted/csci4208-portfolio-2025/issues/29) | `lab-07` | open |
